@@ -1033,7 +1033,15 @@ Utility             ; #c0c0c0
    412875000; NTTR Base Ops            ; FM                  ;      12500; Government,Military
    432100000; 70cm SSB Calling         ; USB                 ;       3000; AmateurRadio
    433920000; Dakota Alert Sensor      ; FSK                 ;      12500; Security
-   446000000; 70cm FM Simplex          ; FM                  ;      10000; AmateurRadio
+   446000000; 70cm FM Simplex          ; FM                  ;      10000; PMR446
+   446006250; CH.1                     ; Narrow FM           ;      12500; PMR446
+   446018750; CH.2                     ; Narrow FM           ;      12500; PMR446
+   446031250; CH.3                     ; Narrow FM           ;      12500; PMR446
+   446043750; CH.4                     ; Narrow FM           ;      12500; PMR446
+   446056250; CH.5                     ; Narrow FM           ;      12500; PMR446
+   446068750; CH.6                     ; Narrow FM           ;      12500; PMR446
+   446081250; CH.7                     ; Narrow FM           ;      12500; PMR446
+   446093750; CH.8                     ; Narrow FM           ;      12500; PMR446
    451800000; Mining Operations        ; FM                  ;      12500; Business
    456800000; Mining Operations Input  ; FM                  ;      12500; Business
    462550000; GMRS_FRS15               ; Narrow FM           ;       5000; GMRS_FRS
